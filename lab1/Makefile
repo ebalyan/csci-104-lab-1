@@ -1,5 +1,5 @@
 cxx = g++
-flag = -g -Wall -std=c++11
+flag = -g -Wall -std=c++14
 link_gtest = -lgtest -lgtest_main -pthread
 
 all: test
